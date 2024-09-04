@@ -8,5 +8,5 @@ print(number / 2, number // 2, number % 2)
 # Теперь к списку numbers и цифре 4, которая находится под индексом 9
 print(numbers[9])
 
-# Проведём теже операции
+# Проведём те же операции
 print(numbers[9] // 2, numbers[9] / 2, numbers[9] % 2)
